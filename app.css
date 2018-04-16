@@ -1,0 +1,16 @@
+/*h1 {
+	color: purple;
+}*/
+
+
+
+body {
+	background: url(https://wallpaperscraft.com/image/noah_emma_watson_ila_94415_3840x2400.jpg);
+	background-size: cover;
+	background-position: top;
+	font-family: Lato;
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
